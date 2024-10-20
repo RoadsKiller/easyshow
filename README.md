@@ -1,2 +1,2 @@
-# easyshow
-This is a plugin for displaying comments.
+# EasyShow WordPress Plugin
+This is a comment display plugin. It uses Python and PHP in the background to crawl data and upload it to the API. The front end calls the API to obtain data and display it. Its technology stack includes Python and PHP for background data processing, and HTML, CSS, and JavaScript for front-end acquisition and display. This plugin performs well on different terminal devices, including PC, IPAD, and mobile phone, and can provide users with clear and beautiful comment display effects.
